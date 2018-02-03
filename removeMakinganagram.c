@@ -1,3 +1,5 @@
+/*    print numbers of characters to be removed in both the strings, so that the anagram of one string is equal to the other string*/
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
