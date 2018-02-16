@@ -1,11 +1,12 @@
+/*To check and print whether the number entered prime or not using square root method*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
 
 int main() {
-
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    
     long int n=0;
     long int flag=0;
     scanf("%ld",&n);
@@ -14,7 +15,6 @@ int main() {
         long int num=0;
         scanf("%ld",&num);
         long int a=sqrt(num);
-       // long int j=3;
         flag=0;
         if(num==1)
             printf("Not prime\n");
