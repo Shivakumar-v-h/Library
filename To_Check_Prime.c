@@ -1,4 +1,4 @@
-/*To check and print whether the number entered prime or not using square root method*/
+/*To check and print whether the number entered is prime or not using square root method*/
 
 #include <stdio.h>
 #include <string.h>
